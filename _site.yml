@@ -2,7 +2,7 @@ name: "edavishydro.github.io"
 title: "Edward Davis | Hydrologist"
 description: |
   Edward Davis | Hydrologist
-output_dir: "_site"
+output_dir: "."
 navbar:
   right:
     - text: "Home"
